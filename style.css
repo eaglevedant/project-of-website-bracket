@@ -1,0 +1,53 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+.input
+{
+    background: grey
+}
+#hi
+{
+color:blue;
+}
+#help
+{
+  width: 100%;  
+}
+#ok
+{
+color:orangered;
+}
+#o
+{
+color:yellow;
+}
+#ol
+{
+color:indigo;
+}
+#om
+{
+color:red;
+}
+#oml
+{
+color:violet;
+}
+#pik
+{
+color:pink;
+}
+#omld
+{
+color:purple;
+}
